@@ -1,0 +1,12 @@
+:root {
+  --font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #801ee9 1.84%, rgb(194, 132, 38));
+  --gradient-bar: linear-gradient(103.22deg, #22083f -13.86%, #967067);
+
+  --color-bg: #e9ebf0;
+  --color-footer: #020202;
+  --color-blog: #2325aa;
+  --color-text:#11f0f0;
+  --color-subtext:#cfb523;
+}
